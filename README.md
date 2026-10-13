@@ -5,4 +5,5 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
-[worth remembering for the midterm.](comp1238.md)
+## Comp1238 Notes
+[Week 1-5 Study Notes](comp1238.md)
